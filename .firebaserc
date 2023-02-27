@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "flovdev"
+  },
+  "targets": {
+    "flovdev": {
+      "hosting": {
+        "admin": [
+          "flovatar-memory"
+        ]
+      }
+    }
+  }
+}
