@@ -1,6 +1,6 @@
 # Flovatar Memory Game
 
-Play memory with your own Flovatars. `https://memory.flov.dev`
+Play memory with your own Flovatars. [https://memory.flov.dev](https://memory.flov.dev)
 
 Technically you can host this anywhere you'd like, as it's just static HTML / CSS / JavaScript, but we chose [Firebase Hosting](https://firebase.google.com/docs/hosting).
 
@@ -17,12 +17,12 @@ Technically you can host this anywhere you'd like, as it's just static HTML / CS
 
 ## Create a Firebase project
 
-- Visit `https://console.firebase.google.com/` and create a project.
+- Visit [https://console.firebase.google.com/](https://console.firebase.google.com/) and create a project.
 - Name it whatever you'd like. The name doesn't matter much.
 
 ## Install the Firebase CLI
 
-- `https://firebase.google.com/docs/cli`
+- [https://firebase.google.com/docs/cli](https://firebase.google.com/docs/cli)
 
 The CLI commands can now be accessed by running `firebase`.
 
