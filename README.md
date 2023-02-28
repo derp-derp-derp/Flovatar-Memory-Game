@@ -2,6 +2,8 @@
 
 Play memory with your own Flovatars. [https://memory.flov.dev](https://memory.flov.dev)
 
+The game board requires 12 Flovatars. If you have less then additional Flovatars are filled in for you at-random, and if you have more than 12 then 12 are chosen from your collection at-random.
+
 ***
 
 ![alt text](https://raw.githubusercontent.com/derp-derp-derp/Flovatar-Memory-Game/main/public/img/game-screenshot.jpg "Game Screenshot")
