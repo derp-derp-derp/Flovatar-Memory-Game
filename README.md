@@ -1,6 +1,6 @@
 # Flovatar Memory Game
 
-Play memory with your own Flovatars.
+Play memory with your own Flovatars. `https://memory.flov.dev`
 
 Technically you can host this anywhere you'd like, as it's just static HTML / CSS / JavaScript, but we chose [Firebase Hosting](https://firebase.google.com/docs/hosting).
 
