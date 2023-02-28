@@ -138,6 +138,8 @@ document.addEventListener('DOMContentLoaded', function (){
         //.put("discovery.wallet","https://fcl-discovery.onflow.org/testnet/authn")
         .put("accessNode.api", "https://rest-mainnet.onflow.org")
         .put("discovery.wallet","https://fcl-discovery.onflow.org/mainnet/authn")
+        .put("app.detail.icon","https://memory.flov.dev/img/FlovaBoy.png")
+        .put("app.detail.title", "Flovatar Memory Game")
     
     window.fcl.currentUser().subscribe(user => userHandler({...user}))
     
