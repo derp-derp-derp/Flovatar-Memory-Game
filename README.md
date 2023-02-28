@@ -6,6 +6,10 @@ Technically you can host this anywhere you'd like, as it's just static HTML / CS
 
 ***
 
+![alt text](https://raw.githubusercontent.com/derp-derp-derp/Flovatar-Memory-Game/main/public/img/game-screenshot.jpg "Game Screenshot")
+
+***
+
 ## Implemented tech highlights
 
 - [FCL JS Vanilla - thank you to bluesign.find!](http://tymianek.com/vanilla/)
