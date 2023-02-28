@@ -140,6 +140,7 @@ document.addEventListener('DOMContentLoaded', function (){
         .put("discovery.wallet","https://fcl-discovery.onflow.org/mainnet/authn")
         .put("app.detail.icon","https://memory.flov.dev/img/FlovaBoy.png")
         .put("app.detail.title", "Flovatar Memory Game")
+        .put("discovery.authn.include", ["0xdb6b70764af4ff68"]) // only include Blocto and Lilico
     
     window.fcl.currentUser().subscribe(user => userHandler({...user}))
     
@@ -194,6 +195,7 @@ document.addEventListener('DOMContentLoaded', function (){
                     document.cookie = "flovatar_game_cards="+JSON.stringify(flovatar_game_cards);
                     
                     playGame();
+                    location.reload();
                 })();
             }else{
                 
