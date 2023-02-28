@@ -2,8 +2,6 @@
 
 Play memory with your own Flovatars. [https://memory.flov.dev](https://memory.flov.dev)
 
-Technically you can host this anywhere you'd like, as it's just static HTML / CSS / JavaScript, but we chose [Firebase Hosting](https://firebase.google.com/docs/hosting).
-
 ***
 
 ![alt text](https://raw.githubusercontent.com/derp-derp-derp/Flovatar-Memory-Game/main/public/img/game-screenshot.jpg "Game Screenshot")
@@ -18,6 +16,8 @@ Technically you can host this anywhere you'd like, as it's just static HTML / CS
 - [Firebase Hosting](https://firebase.google.com/docs/hosting)
 
 ***
+
+Technically you can host this anywhere you'd like, as it's just static HTML / CSS / JavaScript, but I chose [Firebase Hosting](https://firebase.google.com/docs/hosting).
 
 ## Create a Firebase project
 
