@@ -11,8 +11,9 @@ Play memory with your own Flovatars. [https://memory.flov.dev](https://memory.fl
 ## Implemented tech highlights
 
 - [FCL JS Vanilla - thank you to bluesign.find!](http://tymianek.com/vanilla/)
-    - Implements Authentication, Wallet Discovery, and executing a Cadence Script
-- Flovatar Image API [e.g.](https://images.flovatar.com/flovatar/png/4938-nobg.png)
+    - Authentication / Wallet Discovery
+    - Executing a Cadence Script w/ Address Argument
+- Flovatar Simple Image GET [e.g. Flovatar #4938](https://images.flovatar.com/flovatar/png/4938-nobg.png)
 - [Firebase Hosting](https://firebase.google.com/docs/hosting)
 
 ***
