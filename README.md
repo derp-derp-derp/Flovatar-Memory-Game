@@ -4,6 +4,17 @@ Play memory with your own Flovatars.
 
 Technically you can host this anywhere you'd like, as it's just static HTML / CSS / JavaScript, but we chose [Firebase Hosting](https://firebase.google.com/docs/hosting).
 
+***
+
+## Implemented tech highlights
+
+- [FCL JS Vanilla - thank you to bluesign.find!](http://tymianek.com/vanilla/)
+    - Implements Authentication, Wallet Discovery, and executing a Cadence Script
+- Flovatar Image API [e.g.](https://images.flovatar.com/flovatar/png/4938-nobg.png)
+- [Firebase Hosting](https://firebase.google.com/docs/hosting)
+
+***
+
 ## Create a Firebase project
 
 - Visit `https://console.firebase.google.com/` and create a project.
@@ -11,7 +22,7 @@ Technically you can host this anywhere you'd like, as it's just static HTML / CS
 
 ## Install the Firebase CLI
 
-- [https://firebase.google.com/docs/cli](https://firebase.google.com/docs/cli)
+- `https://firebase.google.com/docs/cli`
 
 The CLI commands can now be accessed by running `firebase`.
 
